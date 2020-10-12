@@ -1,0 +1,7 @@
+﻿  hw-1.cpp
+d:\fast\semester 3\data structures\hw-1\hw-1\hw-1.cpp(244): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\fast\semester 3\data structures\hw-1\hw-1\hw-1.cpp(309): warning C4018: '<': signed/unsigned mismatch
+d:\fast\semester 3\data structures\hw-1\hw-1\hw-1.cpp(524): warning C4018: '<': signed/unsigned mismatch
+d:\fast\semester 3\data structures\hw-1\hw-1\hw-1.cpp(551): warning C4018: '<': signed/unsigned mismatch
+d:\fast\semester 3\data structures\hw-1\hw-1\hw-1.cpp(595): warning C4018: '<': signed/unsigned mismatch
+  hw-1.vcxproj -> D:\FAST\Semester 3\Data Structures\hw-1\Debug\hw-1.exe
